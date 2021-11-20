@@ -1,4 +1,4 @@
-'''rime Factorization - Have the user enter a number and \
+'''Prime Factorization - Have the user enter a number and \
 find all Prime Factors (if there are any) and display them.'''
 
 num = int(input("Enter the number to find prime factors for: "))
